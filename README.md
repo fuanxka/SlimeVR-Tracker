@@ -4,7 +4,7 @@
 二次开发请注明原作者、出处以及相关开源协议。
 源文件需使用Kicad5.99进行查看与编辑。
 
-**详细描述请看https://sukimoe.net/projects/slimevr-tracker.html**
+**详细描述请看：https://sukimoe.net/projects/slimevr-tracker.html**
 
 
 
