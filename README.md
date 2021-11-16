@@ -2,7 +2,7 @@
 
 ## 声明
 二次开发请注明原作者、出处以及相关开源协议。<br>
-源文件需使用Kicad5.99进行查看与编辑。<br>
+源PCB工程文件需使用Kicad5.99进行查看与编辑。<br>
 **详细描述请看：https://sukimoe.net/projects/slimevr-tracker.html**
 
 
