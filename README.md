@@ -1,9 +1,8 @@
 # SlimeVR-Tracker
 
 ## 声明
-二次开发请注明原作者、出处以及相关开源协议。
-源文件需使用Kicad5.99进行查看与编辑。
-
+二次开发请注明原作者、出处以及相关开源协议。<br>
+源文件需使用Kicad5.99进行查看与编辑。<br>
 **详细描述请看：https://sukimoe.net/projects/slimevr-tracker.html**
 
 
@@ -66,8 +65,6 @@
 
 
 ### SlimeVR软件/固件
-> SlimeVR固件：[SlimeVR-Tracker-ESP](https://github.com/SlimeVR/SlimeVR-Tracker-ESP)
-> 
-> SlimeVR服务：[SlimeVR-Server](https://github.com/SlimeVR/SlimeVR-Server)
-> 
+> SlimeVR固件：[SlimeVR-Tracker-ESP](https://github.com/SlimeVR/SlimeVR-Tracker-ESP)<br>
+> SlimeVR服务：[SlimeVR-Server](https://github.com/SlimeVR/SlimeVR-Server)<br>
 > SlimeVR驱动：[SlimeVR-OpenVR-Driver](https://github.com/SlimeVR/SlimeVR-OpenVR-Driver)
