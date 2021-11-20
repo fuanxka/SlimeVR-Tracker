@@ -71,7 +71,7 @@
 
 
 ## 下载
-[SlimeVR-Tracker](https://github.com/FuAnMoe/SlimeVR-Tracker/archive/refs/heads/main.zip)
+> SlimeVR硬件：[SlimeVR-Tracker](https://github.com/FuAnMoe/SlimeVR-Tracker/archive/refs/heads/main.zip)
 
 ### SlimeVR软件/固件
 > SlimeVR固件：[SlimeVR-Tracker-ESP](https://github.com/SlimeVR/SlimeVR-Tracker-ESP)<br>
