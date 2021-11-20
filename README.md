@@ -63,6 +63,12 @@
 - 请使用`ESP8266Flasher`进行程序烧录工作，波特率`115200`，`4Mbyte`，`40MHz`，`DIO`。
 
 
+**使用**
+- 使用时追踪器朝向需匹配固件配置，建议充电口朝下.有螺丝的那面朝自己。
+- 如魔术贴比较硬，无弹性，建议无螺丝的一面朝自己，防止崩短穿孔，同时在软件中调整设置。
+- 也可以选择不穿魔术贴，取一段单面的毛面魔术贴，粘贴追踪器有螺丝的一面。
+
+
 
 ### SlimeVR软件/固件
 > SlimeVR固件：[SlimeVR-Tracker-ESP](https://github.com/SlimeVR/SlimeVR-Tracker-ESP)<br>
