@@ -58,7 +58,7 @@
 - 如果只有电烙铁可以不焊接CH9340K的底部EP焊盘，将不支持睡眠低功耗模式，详情请参阅该芯片数据手册。
 - 因焊接工作量较大，建议使用锡膏和加热台进行铁板烧。
 
-**下载**
+**烧录**
 - 附件提供编译好的固件（编译自[SlimeVR-Tracker-ESP](https://github.com/SlimeVR/SlimeVR-Tracker-ESP)），也可自行下载编译。
 - 请使用`ESP8266Flasher`进行程序烧录工作，波特率`115200`，`4Mbyte`，`40MHz`，`DIO`。
 
@@ -69,6 +69,9 @@
 - 也可以选择不穿魔术贴，取一段单面的毛面魔术贴，粘贴到追踪器有螺丝的一面。
 
 
+
+## 下载
+(SlimeVR-Tracker)[https://github.com/FuAnMoe/SlimeVR-Tracker/archive/refs/heads/main.zip]
 
 ### SlimeVR软件/固件
 > SlimeVR固件：[SlimeVR-Tracker-ESP](https://github.com/SlimeVR/SlimeVR-Tracker-ESP)<br>
